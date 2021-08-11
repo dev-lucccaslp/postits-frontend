@@ -1,9 +1,10 @@
 import { ThemeProvider } from "styled-components";
 
 const theme = {
-    color : {
+    colors : {
         primary: '#7d2ecc',
         light: '#f0f0f0',
+        white: '#ffffff',
     }
 }
 
